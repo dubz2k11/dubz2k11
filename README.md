@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dubz2k11
-- 👀 I’m interested in Becoming a Front end Devloper 
+- 👀 I’m interested in Becoming a Junior Front end Devloper 
 - 🌱 I’m currently learning HTML CSS & JAVASCRIPT
 - 💞️ I’m looking to collaborate on MY DIGITAL PORTFOLIO
 - 📫 How to reach me C.T.GLENDINNING@GMAIL.COM
